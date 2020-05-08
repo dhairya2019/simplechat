@@ -8,13 +8,13 @@ You can read the medium blog post to follow the explanations : https://medium.co
 
 # Run App
 
-1) Download Repo
+1) Download This repository OR git clone URL
 
 2) Install [Node.JS](https://nodejs.org/en/) 
 
-3) Install Dependencies - NPM Install
+3) Install Dependencies - npm install
 
 
 # Run NPM START 
 
-and browse https://localhost:port
+and browse https://localhost:3000
